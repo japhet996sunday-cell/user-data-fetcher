@@ -1,2 +1,15 @@
-# user-data-fetcher
-A beginner JavaScript project that fetches and displays multiple users using an API and dynamic DOM rendering.
+# User Data Fetcher
+
+A JavaScript project that fetches multiple users from an API and displays them as dynamic cards.
+
+## Features
+- Fetch API data
+- Display multiple users
+- Dynamic DOM rendering
+- Responsive grid layout
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Fetch API
